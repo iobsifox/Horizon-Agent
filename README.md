@@ -1,4 +1,4 @@
-# Horizon Ticket System — downloads
+# Horizon Ticket System 
 
 Support tickets for WordPress and WooCommerce, with a companion portal theme and
 native agent apps for the desktop and Android.
