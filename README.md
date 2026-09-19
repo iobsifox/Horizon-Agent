@@ -10,14 +10,14 @@ Horizon Agent is the cross-platform client and public distribution channel for H
 
 Horizon Ticket System combines a WordPress and WooCommerce support platform with Staffwind agent applications for Windows, macOS, Linux and Android. The public repository is used for installers, WordPress packages, checksums and machine-readable update metadata. Product source remains private.
 
-Release `1.1.2` is the current public beta. It publishes Horizon Ticket System plugin `1.1.2` with authenticated security-integration REST endpoints and AIOS allow-list guidance. The Windows, macOS, Linux and Android application binaries remain unchanged at `1.1.1` and are published without commercial code-signing certificates.
+Release `1.1.3` is the current public beta. It publishes Horizon Ticket System plugin `1.1.3` with authenticated security-integration REST endpoints and corrected AIOS namespace discovery. The Windows, macOS, Linux and Android application binaries remain unchanged at `1.1.1` and are published without commercial code-signing certificates.
 
 ---
 
 ## Version
 
-- Current public release: `1.1.2`
-- WordPress plugin version: `1.1.2`
+- Current public release: `1.1.3`
+- WordPress plugin version: `1.1.3`
 - Agent application version: `1.1.1`
 - Release channel: `Beta`
 - Test status: Testing version; not classified as stable
