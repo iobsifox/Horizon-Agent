@@ -25,21 +25,9 @@ Version `1.1.0` has not been published. The newest public release is still versi
 
 ## Code composition
 
-Percentages are calculated from the tracked files in the private product source repository using GitHub language statistics. Values below 0.1% are shown as less than 0.1%.
+Percentages are calculated from the tracked product source using GitHub language statistics.
 
-| Language | Percentage |
-| --- | ---: |
-| PHP | 64.9% |
-| Dart | 28.1% |
-| Shell | 1.8% |
-| CSS | 1.8% |
-| C++ | 1.2% |
-| JavaScript | 1.0% |
-| CMake | 0.9% |
-| C | 0.1% |
-| Inno Setup | 0.1% |
-| Swift | <0.1% |
-| Kotlin | <0.1% |
+![Code language composition](language-composition.svg)
 
 ---
 
